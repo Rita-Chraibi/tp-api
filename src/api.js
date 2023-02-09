@@ -1,6 +1,6 @@
 
 // L'adresse du backend local
-const BACKEND = 'http://localhost:8989';
+const BACKEND = 'https://springajax.herokuapp.com';
 // Le backend est également déployé sur heroku
 // Attention : le chargement initial peut être un peu long...
 // const BACKEND = 'https://springajax.herokuapp.com';
